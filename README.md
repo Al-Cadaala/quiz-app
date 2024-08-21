@@ -10,7 +10,6 @@ This React web application serves as a personal financial management tool, allow
 - **Expenses**: Track and manage expenses.
 - **Income**: Record and monitor income sources.
 - **Settings**: Configure app settings.
-- **Reports**: Visualize financial reports.
 - **Budget Overview**: Monitor budget performance.
 
 ## Technologies Used
